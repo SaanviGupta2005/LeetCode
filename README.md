@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SaanviGupta2005/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SaanviGupta2005/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SaanviGupta2005/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/SaanviGupta2005/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/SaanviGupta2005/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Hash Table
 |  |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SaanviGupta2005/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0242-valid-anagram](https://github.com/SaanviGupta2005/LeetCode/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/SaanviGupta2005/LeetCode/tree/master/0409-longest-palindrome) |
+| [0560-subarray-sum-equals-k](https://github.com/SaanviGupta2005/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -120,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/SaanviGupta2005/LeetCode/tree/master/0055-jump-game) |
 | [0409-longest-palindrome](https://github.com/SaanviGupta2005/LeetCode/tree/master/0409-longest-palindrome) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/SaanviGupta2005/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
