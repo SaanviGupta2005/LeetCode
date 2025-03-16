@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/SaanviGupta2005/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/SaanviGupta2005/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/SaanviGupta2005/LeetCode/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/SaanviGupta2005/LeetCode/tree/master/0075-sort-colors) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SaanviGupta2005/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SaanviGupta2005/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SaanviGupta2005/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/SaanviGupta2005/LeetCode/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/SaanviGupta2005/LeetCode/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/SaanviGupta2005/LeetCode/tree/master/0242-valid-anagram) |
 ## Counting
 |  |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/SaanviGupta2005/LeetCode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/SaanviGupta2005/LeetCode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SaanviGupta2005/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
