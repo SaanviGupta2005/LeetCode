@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/SaanviGupta2005/LeetCode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/SaanviGupta2005/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0409-longest-palindrome](https://github.com/SaanviGupta2005/LeetCode/tree/master/0409-longest-palindrome) |
+| [0459-repeated-substring-pattern](https://github.com/SaanviGupta2005/LeetCode/tree/master/0459-repeated-substring-pattern) |
 ## Backtracking
 |  |
 | ------- |
@@ -143,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/SaanviGupta2005/LeetCode/tree/master/0076-minimum-window-substring) |
+## String Matching
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/SaanviGupta2005/LeetCode/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
