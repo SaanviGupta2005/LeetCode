@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/SaanviGupta2005/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SaanviGupta2005/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0242-valid-anagram](https://github.com/SaanviGupta2005/LeetCode/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/SaanviGupta2005/LeetCode/tree/master/0409-longest-palindrome) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/SaanviGupta2005/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/SaanviGupta2005/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/SaanviGupta2005/LeetCode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/SaanviGupta2005/LeetCode/tree/master/0257-binary-tree-paths) |
@@ -137,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/SaanviGupta2005/LeetCode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/SaanviGupta2005/LeetCode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SaanviGupta2005/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Sliding Window
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/SaanviGupta2005/LeetCode/tree/master/0076-minimum-window-substring) |
 <!---LeetCode Topics End-->
