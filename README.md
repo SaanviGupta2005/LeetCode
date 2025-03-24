@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/SaanviGupta2005/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/SaanviGupta2005/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/SaanviGupta2005/LeetCode/tree/master/0056-merge-intervals) |
+| [0066-plus-one](https://github.com/SaanviGupta2005/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/SaanviGupta2005/LeetCode/tree/master/0075-sort-colors) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SaanviGupta2005/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SaanviGupta2005/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -171,5 +172,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/SaanviGupta2005/LeetCode/tree/master/0066-plus-one) |
 | [0523-continuous-subarray-sum](https://github.com/SaanviGupta2005/LeetCode/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
