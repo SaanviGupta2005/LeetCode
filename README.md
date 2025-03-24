@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1708-design-parking-system](https://github.com/SaanviGupta2005/LeetCode/tree/master/1708-design-parking-system) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/SaanviGupta2005/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Greedy
 |  |
@@ -184,8 +185,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0816-design-hashset](https://github.com/SaanviGupta2005/LeetCode/tree/master/0816-design-hashset) |
+| [1708-design-parking-system](https://github.com/SaanviGupta2005/LeetCode/tree/master/1708-design-parking-system) |
 ## Hash Function
 |  |
 | ------- |
 | [0816-design-hashset](https://github.com/SaanviGupta2005/LeetCode/tree/master/0816-design-hashset) |
+## Simulation
+|  |
+| ------- |
+| [1708-design-parking-system](https://github.com/SaanviGupta2005/LeetCode/tree/master/1708-design-parking-system) |
 <!---LeetCode Topics End-->
