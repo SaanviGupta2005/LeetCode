@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SaanviGupta2005/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SaanviGupta2005/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SaanviGupta2005/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0212-word-search-ii](https://github.com/SaanviGupta2005/LeetCode/tree/master/0212-word-search-ii) |
 | [0523-continuous-subarray-sum](https://github.com/SaanviGupta2005/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/SaanviGupta2005/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0816-design-hashset](https://github.com/SaanviGupta2005/LeetCode/tree/master/0816-design-hashset) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SaanviGupta2005/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0076-minimum-window-substring](https://github.com/SaanviGupta2005/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/SaanviGupta2005/LeetCode/tree/master/0125-valid-palindrome) |
+| [0212-word-search-ii](https://github.com/SaanviGupta2005/LeetCode/tree/master/0212-word-search-ii) |
 | [0242-valid-anagram](https://github.com/SaanviGupta2005/LeetCode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/SaanviGupta2005/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0409-longest-palindrome](https://github.com/SaanviGupta2005/LeetCode/tree/master/0409-longest-palindrome) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0212-word-search-ii](https://github.com/SaanviGupta2005/LeetCode/tree/master/0212-word-search-ii) |
 | [0257-binary-tree-paths](https://github.com/SaanviGupta2005/LeetCode/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
@@ -199,4 +202,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1708-design-parking-system](https://github.com/SaanviGupta2005/LeetCode/tree/master/1708-design-parking-system) |
+## Trie
+|  |
+| ------- |
+| [0212-word-search-ii](https://github.com/SaanviGupta2005/LeetCode/tree/master/0212-word-search-ii) |
+## Matrix
+|  |
+| ------- |
+| [0212-word-search-ii](https://github.com/SaanviGupta2005/LeetCode/tree/master/0212-word-search-ii) |
 <!---LeetCode Topics End-->
