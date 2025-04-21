@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SaanviGupta2005/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SaanviGupta2005/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SaanviGupta2005/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0198-house-robber](https://github.com/SaanviGupta2005/LeetCode/tree/master/0198-house-robber) |
 | [0212-word-search-ii](https://github.com/SaanviGupta2005/LeetCode/tree/master/0212-word-search-ii) |
 | [0347-top-k-frequent-elements](https://github.com/SaanviGupta2005/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0523-continuous-subarray-sum](https://github.com/SaanviGupta2005/LeetCode/tree/master/0523-continuous-subarray-sum) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/SaanviGupta2005/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/SaanviGupta2005/LeetCode/tree/master/0055-jump-game) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SaanviGupta2005/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0198-house-robber](https://github.com/SaanviGupta2005/LeetCode/tree/master/0198-house-robber) |
 ## Sorting
 |  |
 | ------- |
