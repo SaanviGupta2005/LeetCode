@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SaanviGupta2005/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/SaanviGupta2005/LeetCode/tree/master/0198-house-robber) |
 | [0212-word-search-ii](https://github.com/SaanviGupta2005/LeetCode/tree/master/0212-word-search-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/SaanviGupta2005/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/SaanviGupta2005/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0523-continuous-subarray-sum](https://github.com/SaanviGupta2005/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/SaanviGupta2005/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SaanviGupta2005/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SaanviGupta2005/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SaanviGupta2005/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0300-longest-increasing-subsequence](https://github.com/SaanviGupta2005/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/SaanviGupta2005/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Breadth-First Search
 |  |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/SaanviGupta2005/LeetCode/tree/master/0055-jump-game) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SaanviGupta2005/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/SaanviGupta2005/LeetCode/tree/master/0198-house-robber) |
+| [0300-longest-increasing-subsequence](https://github.com/SaanviGupta2005/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 ## Sorting
 |  |
 | ------- |
